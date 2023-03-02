@@ -3,7 +3,7 @@ body {
     font-family: 'Ubuntu', sans-serif;
     margin: 0;
     padding: 0;
-    height: 100vh;
+    height: 92.5vh;
     background-image: linear-gradient(
         #68C2E8,
         #68C295
@@ -21,18 +21,19 @@ a:link {
     
 }
 .image-container {
-    margin-top: 25px;
+    margin-top: 70px;
     display: flex;
     justify-content: center;
 }
 
 .name-container {
+    margin-top: 25px;
     display: flex;
     justify-content: center;
-    font-weight: 600;
+    font-weight: 700;
     font-size: 30px;
-    color:black;
-    text-shadow: -1px -1px white;
+    color: rgb(0, 0, 0);
+    text-shadow: -1px -1px rgb(255, 255, 255);
 }   
 
 p {
